@@ -1,0 +1,18 @@
+{
+  "name": "discord-ads-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for managing ad submissions with review workflow (Arabic).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "≥18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
